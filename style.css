@@ -31,17 +31,12 @@
 
 /* 
   ╔════════════════════════════════════════════════╗
-  ║ HIERONDER DE ANIMATIES!                        ║
+  ║ MAAK HIERONDER JE ANIMATIES!                   ║
   ╚════════════════════════════════════════════════╝
 
- Je kan op twee manier objecten laten bewegen:
- 1. met "position:absolute" en "top/left"
- 2. met CSS transforms
- methode 2 is beter voor video/rendering performance,
- je videokaart speelt de animaties af in plaats van je
- processor, zodat je vloeiendere animaties krijgt.
- EXAMPLE1 gebruikt "positioning" variant en
- EXAMPLE2 gebruikt transforms.
+Hier typ je de keyframes voor je animaties. Er staat een uitgebreide 
+"cheat sheet" hier beneden waarina alle CSS declaraties en properties 
+staan voor het maken van CSS keyframe animaties!!
  */
 
 // KEYFRAME ANIMATIE
